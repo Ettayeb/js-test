@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.page {
+  min-height: 100vh;
+}
+
+svg.custom .node text {
+	font-size: 11px;
+	background-color: #444;
+	fill: #F4F4F4;
+	text-shadow: 0 1px 4px black;
+}
